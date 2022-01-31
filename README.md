@@ -3,7 +3,7 @@ Vehicles are detected by finding the difference between 2 frames
 
 ## Simplified process:
 
-1.stabilize video
+1.Stabilize video
 
 2.Find difference between 2 frames
 
